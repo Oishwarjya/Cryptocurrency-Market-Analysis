@@ -2,8 +2,8 @@
 A Data Mining and Analysis Project to understand the accuracy of Cryptocurrency market prediction
 
 ## Team Members:
-- Prajwal Gupta        ---RA1911003010660
-- Sahil Satyam         ---RA1911003010675
+- Prajwal Gupta        --- RA1911003010660
+- Sahil Satyam         --- RA1911003010675
 - Isha Sah             ---RA1911003010668
 - Oishwarjya Banerjee  ---RA1911003010688
 - Smrutisudha Nayak    ---RA1911003010681
