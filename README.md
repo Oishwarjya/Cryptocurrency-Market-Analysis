@@ -5,7 +5,7 @@ A Data Mining and Analysis Project to understand the accuracy of Cryptocurrency 
 - Prajwal Gupta        --- RA1911003010660
 - Sahil Satyam         --- RA1911003010675
 - Isha Sah             --- RA1911003010668
-- Oishwarjya Banerjee  ---RA1911003010688
+- Oishwarjya Banerjee  --- RA1911003010688
 - Smrutisudha Nayak    --- RA1911003010681
 - Aman Kumar Pandey    --- RA1911003010685
 - Rahul Kumar          --- RA1911003010699
