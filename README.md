@@ -1,5 +1,5 @@
 # Cryptocurrency-Market-Analysis
-A Data Mining and Analysis Project to understand the accuracy of Cryptocurrency market prediction
+A Data Mining and Analysis Project to understand the accuracy of Cryptocurrency market prediction : Semester 5 : CSE CORE 
 
 ## Team Members:
 - Prajwal Gupta        --- RA1911003010660
