@@ -10,8 +10,8 @@ A Data Mining and Analysis Project to understand the accuracy of Cryptocurrency 
 - Aman Kumar Pandey    --- RA1911003010685
 - Rahul Kumar          --- RA1911003010699
 - Akash Singh          --- RA1911003010667
-- Srajan Jain          ---RA1911003010662
-- Abhuday Mishra       ---RA1911003010669
+- Srajan Jain          --- RA1911003010662
+- Abhuday Mishra       --- RA1911003010669
 
 ## Link to documentation : 
 - https://docs.google.com/document/d/1KcBKcFXLyvrZQRFGDeMgjKNXq0N8Ec-_9BCy9Y5ihg4/edit?usp=sharing
